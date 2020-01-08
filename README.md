@@ -1,4 +1,4 @@
-This project shows 10 images of the keyword entered. This project use the unsplash API.
+This project shows 10 images according to the keyword entered by the user. This project use the unsplash API.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
